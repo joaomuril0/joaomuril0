@@ -5,7 +5,7 @@
 - ❤️ Fatec - MC
 
 <div>
-  <a href="https://github.com/LuanLgn">
+  <a href="https://github.com/joaomuril0">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=joaomuril0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomuril0&layout=compact&langs_count=168&theme=dracula"/>
 </div>

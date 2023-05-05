@@ -1,11 +1,10 @@
- 
+
   <div style = "display: inline_block"><br>
    <img align="right" alt="Joao-pic" src="https://o.remove.bg/downloads/26979e5a-4596-475f-b638-b2bfadf9a543/345103546_1357758701462475_1226773001696528155_n-removebg-preview.png" height="120" style="border-radius:50px;" ">
   </div>
  
- ### Olá, eu sou o João Murilo!
+ <h1>Olá, eu sou o João Murilo!</h1>
 
-##
 
 - 📚 Estudando JavaScript
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas

@@ -1,9 +1,8 @@
-<h1>Olá, eu sou o João Murilo!</h1>
-
-
 <div style = "display: inline_block"><br>
    <img align="right" alt="Joao-pic" src="https://cdn.discordapp.com/attachments/894788216681541632/1104619855182831706/345103546_1357758701462475_1226773001696528155_n-removebg-preview.png" height="120" style="border-radius:50px;" ">
   </div>
+
+<h1>Olá, eu sou o João Murilo!</h1>
 
 
 - 📚 Estudando JavaScript

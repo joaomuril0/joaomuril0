@@ -23,6 +23,7 @@
 </div>
                   
 [//]: # (Status Git)
+<br>
 
 <div align="center">
    <a href="https://github.com/joaomuril0">

@@ -2,7 +2,7 @@
 
 
 <div style = "display: inline_block"><br>
-   <img align="right" alt="Joao-pic" src="https://o.remove.bg/downloads/26979e5a-4596-475f-b638-b2bfadf9a543/345103546_1357758701462475_1226773001696528155_n-removebg-preview.png" height="120" style="border-radius:50px;" ">
+   <img align="right" alt="Joao-pic" src="https://cdn.discordapp.com/attachments/894788216681541632/1104619855182831706/345103546_1357758701462475_1226773001696528155_n-removebg-preview.png" height="120" style="border-radius:50px;" ">
   </div>
 
 
@@ -24,15 +24,15 @@
   <img align="center" alt="Joao-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"  alt="Joao-pic" src="https://static.wikia.nocookie.net/pokemon/images/e/ed/Zoroark_BW.gif/revision/latest?cb=20110507164009" height="120" style="border-radius:50px;" ">
+  <img align="left"  alt="Joao-pic" src="https://static.wikia.nocookie.net/pokemon/images/e/ed/Zoroark_BW.gif/revision/latest?cb=20110507164009" height="120" style="border-radius:50px;" ">
   
 </div>  
 
 ##
 
-<div> 
-  <a href = "mailto:joaolilo044@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/joaomurilx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<div style="display: inline_block"> 
+  <a align="right" href = "mailto:joaolilo044@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a align="right" href="https://www.instagram.com/joaomurilx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
   
 ![Snake Animation](https://github.com/joaomuril0/joaomuril0/blob/output/github-contribution-grid-snake.svg)

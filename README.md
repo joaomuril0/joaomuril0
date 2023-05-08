@@ -21,9 +21,10 @@
       </tr>
    </table>
 </div>
-                  
+
+<br>              
+              
 [//]: # (Status Git)
-<br>
 
 <div align="center">
    <a href="https://github.com/joaomuril0">
@@ -33,29 +34,40 @@
 
 <br>
 
-[//]: # (Linguagens)
-   
-<h2 align="center">👨‍💻Tecnologias👨‍💻</h2>
+[//]: # (Zoroark)
 
-<br>
-<div  align ="center ">
-  <img alt="Joao-C++" height="45 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Joao-C++" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Joao-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Joao-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"  alt="Joao-pic" src="https://static.wikia.nocookie.net/pokemon/images/e/ed/Zoroark_BW.gif/revision/latest?cb=20110507164009" height="120" style="border-radius:50px;" ">
-  <img align="left"  alt="Joao-pic" src="https://cdn.discordapp.com/attachments/894788216681541632/1104634337242128516/zoroark-pokemon.gif" height="120" style="border-radius:50px;" ">
+<div>
+   <img align="right"  alt="Joao-pic" src="https://static.wikia.nocookie.net/pokemon/images/e/ed/Zoroark_BW.gif/revision/latest?cb=20110507164009" height="120" style="border-radius:50px;" ">
+   <img align="left"  alt="Joao-pic2" src="https://cdn.discordapp.com/attachments/894788216681541632/1104634337242128516/zoroark-pokemon.gif" height="120" style="border-radius:50px;" ">
+</div>
+
+
+[//]: # (Linguagens)
+
+<div>
+   <h2 align="center">👨‍💻Tecnologias👨‍💻</h2>
+   
+   <br>
+   
+   <div  align = "center" >
+      <img align = "center" alt="Joao-C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+      <img align = "center" alt="Joao-C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+      <img align = "center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align = "center" alt="Joao-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   </div>
 </div>  
 
 <br>
 
 [//]: # (Contato)
 
-<h2 align ="center">📱Contato📱</h2>
+<h2 align = "center">📱Contato📱</h2>
+
 <br>
-<div align="center"> 
-  <a href = "mailto:joaolilo044@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/joaomurilx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+
+<div align = "center"> 
+   <a href = "mailto:joaolilo044@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href = "https://www.instagram.com/joaomurilx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </div>
  
 [//]: # (Cobrinha)

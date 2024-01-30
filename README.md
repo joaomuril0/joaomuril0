@@ -1,9 +1,5 @@
 [//]: # (Fotinhos)
 
-<div style = "display: inline_block"><br>
-   <img align="left" alt="Joao-pic" src="https://cdn.discordapp.com/attachments/894788216681541632/1104619855182831706/345103546_1357758701462475_1226773001696528155_n-removebg-preview.png" height="150" style="border-radius:50px;" ">
-   <img align="right" alt="Joao-pic" src="https://cdn.discordapp.com/attachments/894788216681541632/1104635025997176832/image0-removebg-preview.png" height="150" style="border-radius:50px;" ">
-  </div>
 
 
 [//]: # (Bio)

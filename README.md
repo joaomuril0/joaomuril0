@@ -11,7 +11,7 @@
 <div align="center">
    <table>
       <tr>        
-         <td>📚 Estudando JavaScript</td>
+         <td>📚 Estudando Java</td>
          <td>🎓 Cursando ADS</td>
          <td>🏫 Fatec - Mogi das Cruzes</td>
       </tr>
